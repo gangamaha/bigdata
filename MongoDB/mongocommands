@@ -1,0 +1,3 @@
+./mongoimport --db sample --collection samplecollect --file ~/sample.json 
+
+
